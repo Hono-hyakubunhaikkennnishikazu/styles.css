@@ -1,0 +1,56 @@
+html, body {
+    font-family: 'Roboto mono';
+    font-size: 16px;
+    background-color: #ffffff;
+  }
+  
+  h1 {
+    color: #000000c4;
+    text-align: center;
+    font-size: 2rem;
+    margin: 3rem;
+  }
+  
+  
+  #time {
+    color: #000000c4;
+    font-size: 5rem;
+    text-align: center;
+    padding: 1rem;
+    border-radius: 1rem;
+    margin: .5rem;
+  }
+  
+  #buttons {
+    font-size: 3rem;
+    text-align: center;
+    
+    ;
+  }
+  
+  #start {
+    color: #ffffff;
+    font-size: 2rem;
+    border-radius: .3rem;
+    background-color: rgb(82, 163, 6);
+    cursor:pointer
+  
+  }
+  
+  #stop {
+    color: #ffffff;
+    font-size: 2rem;
+    border-radius: .3rem;
+    background-color: rgb(206, 39, 14);
+    cursor:pointer
+    
+  }
+  
+  #reset{
+    color: #000000;
+    font-size: 2rem;
+    border-radius: .3rem;
+    background-color: rgb(255, 255, 255);
+    cursor:pointer
+  
+  }
